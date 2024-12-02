@@ -1,0 +1,7 @@
+public class InputReader {
+    private InputReader {}
+
+    public static String[] readInput() {
+        
+    }
+}
